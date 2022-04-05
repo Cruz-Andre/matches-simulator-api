@@ -2,8 +2,8 @@
   {
     "descricao": "Copa do Mundo 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "NACIONAL DE LUSAIL",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lusail_Iconic_Stadium_final_render.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -11,9 +11,43 @@
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
-      "nome": "Argentina",
-      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "nome": "Servia",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/rs.png"
+    }
+  },
+    {
+    "descricao": "Copa do Mundo 2022",
+    "local": {
+      "nome": "AL WAKRAH",
+      "imagem": "https://guiadoqatar.com.br/wp-content/uploads/2021/02/al-janoub-2-770x439.jpg"
+    },
+    "mandante": {
+      "nome": "Suíça",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ch.png"
+    },
+    "visitante": {
+      "nome": "Camarões",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cm.png"
+    }
+  },
+    {
+    "descricao": "Copa do Mundo 2022",
+    "local": {
+      "nome": "Al Bayt",
+      "imagem": "https://www.designbuild-network.com/wp-content/uploads/sites/26/2017/10/1l-image-132.jpg"
+    },
+    "mandante": {
+      "nome": "Catar",
+      "forca": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/qa.png"
+    },
+    "visitante": {
+      "nome": "Equador",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
     }
   } 
 ]
